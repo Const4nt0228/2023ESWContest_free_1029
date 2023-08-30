@@ -25,7 +25,7 @@
 :page_with_curl: servoModule (currently version deprecated!)    
 Servo motor 제어  
 
-:page_with_curl: haarcasecade_frontalface_default.xml  
+:page_with_curl: [haarcasecade_frontalface_default.xml]([http://www.google.co.kr](https://github.com/opencv/opencv))
 얼굴인식 라이브러리  
 
 :page_with_curl: app    
