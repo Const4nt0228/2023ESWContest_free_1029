@@ -18,18 +18,25 @@
 
 ## 파일구성
 ![image](https://github.com/Const4nt0228/2023ESWContest_free_1029/blob/main/img/folder_2.png)  
+
 :page_with_curl: class_faceDetector  
 라즈베리파이 구동 코드, 영상처리 Rest API 송신  
+
 :page_with_curl: servoModule (currently version deprecated!)  
 Servo motor 제어 
+
 :page_with_curl: haarcasecade_frontalface_default.xml  
 얼굴인식 라이브러리  
+
 :page_with_curl: app  
 flask API Server, Rest API, Video Frame  
+
 :page_with_curl: main_client_face  
 클라이언트 GUI Software with opencv, Rest API, Control 
+
 :page_with_curl: def_api_request  
 for Client's API Request module  
+
 :page_with_curl: ui_client  
 for Client's ui file  
 
